@@ -5,9 +5,12 @@ This repository contains code for different tasks related to Information Retriev
 
 This project was created as part of the coursework for module 7071CEM Information Retrieval for [Coventry University](https://www.coventry.ac.uk/course-structure/pg/eec/data-science-and-computational-intelligence-msc/). Any use of the code needs to be cited appropriately. 
 
+### Code Walkthrough and Demo - https://youtu.be/xF2SMsmde0Q
+
 ## Usage
 
 The code can be executed in any Python Interpreter. I have developed this code using PyCharm.
+
 
 ---
 
